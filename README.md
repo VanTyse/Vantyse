@@ -1,4 +1,4 @@
-### Hi, I am Nonso, a MERN developer who loves building beautiful,user-friendly and responsive web applications. At this moment, I am open to work remotely as frontend developer. When I am not building stuff with javascript, I am complaining about how much of a pain in the ass bugs can be. And if i am not doing either, then I am probably writing.
+### Hi, I am Nonso, a MERN developer who loves building beautiful,user-friendly and responsive web applications. At this moment, I am open to work remotely as a javascript developer. When I am not building stuff with javascript, I am complaining about how much of a pain in the ass bugs can be. And if i am not doing either, then I am probably writing.
 
 <!--
 **VanTyse/Vantyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
