@@ -10,9 +10,9 @@
 
 ## You can reach me on:
 
-## LinkedIn: https://linkedin.com/in/nonso-okafor-538580218
+## [LinkedIn](https://linkedin.com/in/nonso-okafor-538580218)
 
-## Email: nonsokingsley61@gmail.com
+## [email](mailto:nonsokingsley61@gmail.com)
 
 <!--
 **VanTyse/Vantyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
