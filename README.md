@@ -6,7 +6,7 @@
 
 ### My approach is defined by a commitment to excellence, clear communication, and a collaborative mindset. I pride myself on translating complex ideas into user-friendly applications.
 
-### **Let's collaborate to turn your vision into a reality.**
+### **Let's collaborate to turn your vision into a reality**
 
 ## You can reach me on: [LinkedIn](https://linkedin.com/in/nonso-okafor-538580218) and [email](mailto:nonsokingsley61@gmail.com)
 
