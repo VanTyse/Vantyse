@@ -10,7 +10,7 @@
 
 ## You can reach me on: [LinkedIn](https://linkedin.com/in/nonso-okafor-538580218) and [email](mailto:nonsokingsley61@gmail.com) 
 <!--
-**VanTyse/Vantyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VanTyse/Vantyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
