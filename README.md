@@ -1,8 +1,6 @@
 First class Computer Science.
 
-Cracked Software Engineer.
-
-Builds to breathe!
+Product Engineer.
 
 You can reach me on: [LinkedIn](https://linkedin.com/in/nonso-okafor-538580218) or [email](mailto:nonsokingsley61@gmail.com)
 <!--
